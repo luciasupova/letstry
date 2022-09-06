@@ -5,3 +5,4 @@ let person = {
 
 console.log(person.name + person.surname)
 console.log(person.name )
+hellou
